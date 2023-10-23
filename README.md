@@ -1,3 +1,3 @@
 # C-CODES
-Please add the code files.
-Remember to include your reg number
+NAME: ADHIAMBO ANTHONY OCHIENG
+REG NO: SCT211-0040/2023
