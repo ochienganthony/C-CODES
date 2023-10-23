@@ -3,11 +3,10 @@
 
 int main()
 {
-  int a,b;
-  printf(" Enter your first favourite number:");
+  int a;
+  printf (" Enter your favourite number:");
   scanf("%d", &a );
-  printf(" Enter your second favourite number:");
-  scanf("%d", &b );
-  printf("Your favourite numbers are: %d , %d",a , b);
+  printf("Your favourite number is: %d",a);
   return 0;
 }
+
